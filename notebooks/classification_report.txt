@@ -1,0 +1,31 @@
+Classification Report - MobileNetV2
+================================================================================
+                                                    precision    recall  f1-score   support
+
+                                Apple___Apple_scab     0.0534    0.0546    0.0540       403
+                                 Apple___Black_rot     0.0551    0.0554    0.0553       397
+                          Apple___Cedar_apple_rust     0.0511    0.0511    0.0511       352
+                                   Apple___healthy     0.0501    0.0499    0.0500       401
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot     0.0412    0.0427    0.0419       328
+                       Corn_(maize)___Common_rust_     0.0426    0.0420    0.0423       381
+               Corn_(maize)___Northern_Leaf_Blight     0.0401    0.0394    0.0397       381
+                            Corn_(maize)___healthy     0.0377    0.0377    0.0377       371
+                     Pepper__bell___Bacterial_spot     0.0406    0.0402    0.0404       199
+                            Pepper__bell___healthy     0.0471    0.0475    0.0473       295
+                             Potato___Early_blight     0.0204    0.0200    0.0202       200
+                              Potato___Late_blight     0.0000    0.0000    0.0000       200
+                                  Potato___healthy     0.0303    0.0333    0.0317        30
+                             Tomato_Bacterial_spot     0.0693    0.0706    0.0699       425
+                               Tomato_Early_blight     0.0226    0.0200    0.0212       200
+                                Tomato_Late_blight     0.0576    0.0577    0.0577       381
+                                  Tomato_Leaf_Mold     0.0414    0.0368    0.0390       190
+                         Tomato_Septoria_leaf_spot     0.0661    0.0678    0.0669       354
+       Tomato_Spider_mites_Two_spotted_spider_mite     0.0462    0.0478    0.0470       335
+                               Tomato__Target_Spot     0.0333    0.0357    0.0345       280
+             Tomato__Tomato_YellowLeaf__Curl_Virus     0.1054    0.1061    0.1058       641
+                       Tomato__Tomato_mosaic_virus     0.0000    0.0000    0.0000        74
+                                    Tomato_healthy     0.0484    0.0472    0.0478       318
+
+                                          accuracy                         0.0510      7136
+                                         macro avg     0.0435    0.0436    0.0435      7136
+                                      weighted avg     0.0508    0.0510    0.0509      7136
