@@ -6,6 +6,8 @@ Project 17: Plant Disease Recognition Using MobileNet Variants
 
 ## Project Overview
 
+This project implements an automated plant disease classification system using transfer learning with MobileNetV2. The model can identify 23 different disease categories across 5 crop types (Apple, Corn, Pepper, Potato, and Tomato) from leaf images. Trained on the PlantVillage dataset containing 35,725 images, the model achieves **93.69% validation accuracy**.
+
 ## Results Summary
 
 | Metric              | Value                 |
